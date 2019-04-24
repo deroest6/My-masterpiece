@@ -1,1 +1,3 @@
-Hi im just a simple ole text file
+Hi I'm just a simple ole text file. 
+
+I've been branched! This is not cool
